@@ -1,2 +1,2 @@
-Realizando PUSH al servidor remoto
+Realizando Pul desde el servidor remoto
 
